@@ -1,2 +1,2 @@
 # Detyra-nga-Bootcampi
-#Detyra me etiketat e HTML
+Ky Respository permnam disa ushtrime lidhur me Etiektet a HTML-se
